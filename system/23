@@ -1,0 +1,3 @@
+adduser
+su - new_user
+ssh user_name@ip
